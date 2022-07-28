@@ -1,1 +1,1 @@
-# test.beauty.salon
+# test.beautysalon
